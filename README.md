@@ -2,7 +2,7 @@
 <h5 align="left">A blockchain enthusiast and developer from Asia. My journey in blockchain technology is fueled by passion and creativity. 🚀 Always striving to push the boundaries of decentralized world, I dream big and code even bigger, crafting elegant solutions that make a difference. Let's connect and shape the future together! 🌐💡</h5>
 
 <br>
-<img align="right" src="https://github.com/Ehsan-The-Coder/Ehsan-The-Coder/blob/main/tachyon-2-dr.gif" alt="Banner" height="200" width="300" />
+<img align="right" src="https://github.com/Ehsan-The-Coder/Ehsan-The-Coder/blob/main/tachyon-2-dr.gif" alt="Banner" height="180" width="280" />
 
 - 🔭 I've successfully completed impactful projects like
    - [StakingWithChain](https://github.com/Ehsan-The-Coder/StakingWithChainlink.git): Revolutionizing token staking for rewarding experiences.🚀
